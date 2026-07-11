@@ -1,5 +1,3 @@
-
-
 <# 💫 About Me:
 👋 Hi, I'm Mohana Ravali Modugumudi<br><br>I'm a B.Tech Information Technology student with a passion for Software Development, Artificial Intelligence, Machine Learning, and Web Development. I enjoy building practical projects that solve real-world problems and continuously learning new technologies.<br>💻 **Tech Stack:** Python, Java, C, HTML, CSS, JavaScript, React.js, Flask, MySQL, Git & GitHub<br><br>🚀 **Areas of Interest:**<br><br>* Artificial Intelligence & Machine Learning<br>* Full-Stack Web Development<br><br><br><br><br>
 
