@@ -1,18 +1,142 @@
-<# 💫 About Me:
-👋 Hi, I'm Mohana Ravali Modugumudi<br><br>I'm a B.Tech Information Technology student with a passion for Software Development, Artificial Intelligence, Machine Learning, and Web Development. I enjoy building practical projects that solve real-world problems and continuously learning new technologies.<br>💻 **Tech Stack:** Python, Java, C, HTML, CSS, JavaScript, React.js, Flask, MySQL, Git & GitHub<br><br>🚀 **Areas of Interest:**<br><br>* Artificial Intelligence & Machine Learning<br>* Full-Stack Web Development<br><br><br><br><br>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+MERUGU+ANURADHA;Java+Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;Cybersecurity+Learner;Building+Modern+Software+Solutions+%F0%9F%9A%80"/>
+</h1>
 
+<h3 align="center">
+💻 Java Full Stack Developer | 🤖 AI & Machine Learning | 🔐 Cybersecurity | ☁ Cloud Computing
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohana Ravali Modugumudi)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravalimodugumudi8@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mohanaravali8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mohanaravali8&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohanaravali8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Passionate about building scalable, intelligent and secure applications using modern technologies.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mohanaravali8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👩💻 About Me
+
+🎓 B.Tech Information Technology Student
+
+💻 Passionate about Java Full Stack Development and modern web technologies.
+
+🤖 Interested in Artificial Intelligence, Machine Learning, and Data-Driven Applications.
+
+🔐 Currently exploring Cybersecurity, Cloud Computing, and Secure Software Development.
+
+🚀 I enjoy building practical projects that solve real-world problems.
+
+🌱 Always learning new technologies and improving my development skills.
+
+🎯 **Career Goal:** To become a Software Engineer specializing in Java Full Stack Development and AI-powered applications.
+
+---
+
+# 🚀 Current Focus
+
+- ☕ Java & Spring Boot
+- ⚛️ React.js
+- 🤖 Artificial Intelligence & Machine Learning
+- 🔐 Cybersecurity
+- ☁️ Cloud Computing
+- 🐳 Docker & REST APIs
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,python,javascript,html,css,bootstrap,mysql,mongodb,git,github,docker,vscode,idea,postman"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Technologies |
+|---------|--------------|
+| 🎬 Movies App | Spring Boot • React • MySQL |
+| 💼 Freelance Marketplace for Students | Spring Boot • React • JWT • MySQL |
+| 📚 QR Attendance Management System | PHP • MySQL • JavaScript |
+| 🤖 Smart Lender | Python • Machine Learning |
+| 📱 Online Complaint Management System | Spring Boot • React |
+| 💰 Smart Expense Tracker | Java |
+| 🎓 Student Management System | Java • MySQL |
+| 🤟 Tactile Communication Bridge | Python • AI |
+
+---
+
+# 🏅 Certifications
+
+- ☕ Java Programming
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Deep Learning
+- 📊 Statistics
+- 💼 Deloitte Technology Job Simulation
+- 🌱 Git & GitHub
+
+---
+
+# 💡 Core Skills
+
+`Java` • `Spring Boot` • `React.js` • `Python` • `Machine Learning` • `Artificial Intelligence`
+
+`MySQL` • `MongoDB` • `REST APIs` • `Git` • `GitHub` • `Docker`
+
+`HTML5` • `CSS3` • `JavaScript` • `Problem Solving` • `OOP`
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Spring Boot
+- React.js
+- Docker
+- Cloud Computing
+- Deep Learning
+- Secure Software Development
+
+---
+
+# 💼 Open to Opportunities
+
+✅ Software Engineering Internships
+
+✅ Java Full Stack Development
+
+✅ AI & Machine Learning Projects
+
+✅ Open Source Contributions
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/anuradha44">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/merugu-anuradha">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:meruguanuradha8@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💬 *"Code with Purpose • Learn Continuously • Build for Impact."*
+
+⭐ Thank you for visiting my GitHub profile!
+
+Feel free to explore my repositories and connect with me.
+
+</div>
+
