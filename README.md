@@ -32,7 +32,7 @@
 
 # 👩‍💻 About Me
 
-Hi 👋 I'm **Modgumudi MohanaRavali**.
+Hi 👋 I'm **Modugumudi MohanaRavali**.
 
 🎓 **B.Tech Information Technology Student**
 
